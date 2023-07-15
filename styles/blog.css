@@ -1,4 +1,11 @@
 div{
     background-color: tomato;
+    /*margin: 10px; */
     padding: 10px;
+    border-radius: 20px;
+    border-top: 20px solid blue;
+}
+p{
+    border-radius: 20px;
+    border-top: 20px solid purple; 
 }
